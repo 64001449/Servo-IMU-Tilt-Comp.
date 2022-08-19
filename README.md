@@ -1,2 +1,2 @@
 # Servo-IMU-Tilt-Comp.
-This is the base code for the new CHAD's tilt feature made by MnSGC Ballooning Team
+This is the base code for the tilt feature of an anti-rotation device made by the MnSGC Ballooning Team.
